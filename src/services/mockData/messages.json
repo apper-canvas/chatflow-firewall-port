@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "sender": "ChatBot",
+    "content": "Hello! Welcome to ChatFlow. I'm here to chat with you!",
+    "timestamp": "2024-01-15T10:00:00Z",
+    "isUser": false
+  },
+  {
+    "id": "2",
+    "sender": "You",
+    "content": "Hi there! How are you doing today?",
+    "timestamp": "2024-01-15T10:01:00Z",
+    "isUser": true
+  },
+  {
+    "id": "3",
+    "sender": "ChatBot",
+    "content": "I'm doing great, thank you for asking! I'm excited to chat with you. What would you like to talk about?",
+    "timestamp": "2024-01-15T10:01:30Z",
+    "isUser": false
+  }
+]

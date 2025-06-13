@@ -1,0 +1,168 @@
+[
+  {
+    "triggers": ["hello", "hi", "hey", "greetings", "good morning", "good afternoon", "good evening"],
+    "responses": [
+      "Hello there! Great to meet you! 😊",
+      "Hi! How's your day going so far?",
+      "Hey! What brings you here today?",
+      "Greetings! I'm excited to chat with you!",
+      "Hello! Ready for an interesting conversation?",
+      "Hi there! What's on your mind today?"
+    ]
+  },
+  {
+    "triggers": ["how are you", "how are you doing", "what's up", "how's it going"],
+    "responses": [
+      "I'm doing fantastic! Thanks for asking. How about you?",
+      "Great! I'm always excited to meet new people. How are you feeling today?",
+      "I'm wonderful! Every conversation is a new adventure for me. What about you?",
+      "Doing amazing! I love chatting with people. How's your day treating you?",
+      "I'm excellent! Ready to have a great conversation. How are things on your end?"
+    ]
+  },
+  {
+    "triggers": ["weather", "sunny", "rain", "cold", "hot", "temperature", "climate"],
+    "responses": [
+      "I love talking about weather! What's it like where you are right now?",
+      "Weather can really affect our mood, can't it? Are you enjoying today's weather?",
+      "That's interesting! I find weather patterns fascinating. Do you have a favorite type of weather?",
+      "Weather is such a great conversation starter! Do you prefer sunny or cloudy days?",
+      "The weather can be so unpredictable! Are you someone who checks the forecast daily?"
+    ]
+  },
+  {
+    "triggers": ["work", "job", "career", "office", "colleague", "boss", "employment"],
+    "responses": [
+      "Work can be such a big part of our lives! What kind of work do you do?",
+      "That sounds interesting! Do you enjoy what you do for work?",
+      "Work-life balance is so important. How do you manage yours?",
+      "Every job has its challenges and rewards. What's the best part about your work?",
+      "Career conversations are always fascinating! What got you into your field?"
+    ]
+  },
+  {
+    "triggers": ["food", "eat", "cooking", "recipe", "restaurant", "hungry", "meal", "dinner", "lunch", "breakfast"],
+    "responses": [
+      "I love food conversations! What's your favorite cuisine?",
+      "Food brings people together, doesn't it? Do you enjoy cooking?",
+      "That sounds delicious! Are you someone who likes to try new foods?",
+      "Cooking can be so therapeutic! Do you have a signature dish?",
+      "Food is one of life's great pleasures! What's the best meal you've had recently?"
+    ]
+  },
+  {
+    "triggers": ["movie", "film", "tv", "show", "series", "netflix", "watch", "cinema"],
+    "responses": [
+      "I love discussing movies and shows! What have you been watching lately?",
+      "Entertainment is such a great escape! Do you prefer movies or TV series?",
+      "That sounds like a great watch! What genres do you usually enjoy?",
+      "There's so much great content these days! Any recommendations for me?",
+      "Movies and shows can be so immersive! What's your all-time favorite?"
+    ]
+  },
+  {
+    "triggers": ["music", "song", "band", "artist", "concert", "listen", "spotify", "album"],
+    "responses": [
+      "Music is amazing! What kind of music do you listen to?",
+      "I love how music can change our entire mood! What's playing in your head right now?",
+      "That sounds like great music taste! Have you been to any good concerts lately?",
+      "Music is such a universal language! Do you play any instruments?",
+      "There's nothing like a good song! What's your current favorite artist?"
+    ]
+  },
+  {
+    "triggers": ["travel", "vacation", "trip", "journey", "explore", "adventure", "country", "city"],
+    "responses": [
+      "Travel opens up so many possibilities! Where's your dream destination?",
+      "I love hearing about travel adventures! What's the most interesting place you've visited?",
+      "Exploring new places is incredible! Are you planning any trips soon?",
+      "Travel stories are the best! Do you prefer relaxing vacations or adventure trips?",
+      "The world is so big and beautiful! What's your favorite travel memory?"
+    ]
+  },
+  {
+    "triggers": ["hobby", "interest", "passion", "free time", "weekend", "fun", "activity"],
+    "responses": [
+      "Hobbies make life so much richer! What do you like to do in your free time?",
+      "That sounds like a wonderful way to spend time! How did you get into that?",
+      "I love learning about people's passions! What hobby brings you the most joy?",
+      "Free time activities are so important for well-being! Do you have any creative hobbies?",
+      "It's great to have things you're passionate about! What would you recommend to someone looking for a new hobby?"
+    ]
+  },
+  {
+    "triggers": ["funny", "joke", "laugh", "humor", "comedy", "amusing"],
+    "responses": [
+      "Haha! I love a good laugh! Do you have any funny stories to share?",
+      "Humor makes everything better! What kind of comedy do you enjoy most?",
+      "That's hilarious! Laughter really is the best medicine, isn't it?",
+      "I appreciate good humor! Are you someone who likes to tell jokes?",
+      "Comedy is wonderful! What's the funniest thing that's happened to you recently?"
+    ]
+  },
+  {
+    "triggers": ["sad", "tired", "stressed", "worried", "anxious", "difficult", "hard", "tough"],
+    "responses": [
+      "I hear you. Sometimes we all need someone to talk to. What's been on your mind?",
+      "That sounds challenging. Is there anything specific that's been bothering you?",
+      "I'm sorry you're going through a tough time. Would you like to talk about it?",
+      "It's okay to have difficult days. What usually helps you feel better?",
+      "Thank you for sharing that with me. Sometimes just talking can help, right?"
+    ]
+  },
+  {
+    "triggers": ["happy", "excited", "great", "wonderful", "amazing", "fantastic", "awesome", "good news"],
+    "responses": [
+      "That's wonderful to hear! I love your positive energy! What's making you so happy?",
+      "Your excitement is contagious! Tell me more about what's got you feeling so great!",
+      "That's fantastic! It's always great to hear good news. What's the occasion?",
+      "I'm so happy for you! Positive vibes are the best. What's been going well?",
+      "Your enthusiasm is amazing! What's brought this burst of happiness?"
+    ]
+  },
+  {
+    "triggers": ["thank you", "thanks", "appreciate", "grateful"],
+    "responses": [
+      "You're very welcome! It's my pleasure to chat with you!",
+      "No need to thank me! I really enjoy our conversation!",
+      "You're so kind! Thank you for being such great company!",
+      "Anytime! I'm grateful for this chat too!",
+      "You're welcome! It's wonderful to connect with you!"
+    ]
+  },
+  {
+    "triggers": ["goodbye", "bye", "see you", "talk later", "gotta go", "leaving"],
+    "responses": [
+      "It was great chatting with you! Hope to talk again soon! 👋",
+      "Goodbye! Thanks for the wonderful conversation!",
+      "See you later! Take care and have a great day!",
+      "Bye for now! It was really nice meeting you!",
+      "Until next time! Hope you have an amazing rest of your day!"
+    ]
+  },
+  {
+    "triggers": ["help", "support", "advice", "guidance", "suggestion"],
+    "responses": [
+      "I'm here to help! What do you need assistance with?",
+      "I'd be happy to try and help! What's the situation?",
+      "Sure! I'll do my best to offer some guidance. What's on your mind?",
+      "Of course! What kind of support are you looking for?",
+      "I'm glad you reached out! How can I assist you today?"
+    ]
+  },
+  {
+    "triggers": ["general"],
+    "responses": [
+      "That's really interesting! Tell me more about that.",
+      "I see! What are your thoughts on that?",
+      "Fascinating! How do you feel about that?",
+      "That's a great point! What made you think of that?",
+      "I'd love to hear more about your perspective on that!",
+      "That sounds intriguing! Can you elaborate?",
+      "Interesting viewpoint! What's your experience with that?",
+      "I appreciate you sharing that! What's your take on it?",
+      "That's thought-provoking! How did you come to that conclusion?",
+      "I'm curious to know more! What's your story behind that?"
+    ]
+  }
+]
