@@ -1,8 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-const TypingIndicator = () => (
+const TypingIndicator = React.forwardRef((props, ref) => (
   <motion.div
+    ref={ref}
     initial={{ opacity: 0, y: 10 }}
     animate={{ opacity: 1, y: 0 }}
     exit={{ opacity: 0, y: -10 }}
@@ -17,6 +18,6 @@ const TypingIndicator = () => (
       <span className="text-xs text-surface-400 ml-2">AI is typing...</span>
     </div>
   </motion.div>
-);
+));
 
 export default TypingIndicator;
