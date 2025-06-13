@@ -1,5 +1,5 @@
-import Home from '../pages/Home';
-import NotFound from '../pages/NotFound';
+import HomePage from '@/components/pages/HomePage';
+import NotFoundPage from '@/components/pages/NotFoundPage';
 
 export const routes = {
   home: {
@@ -7,14 +7,14 @@ export const routes = {
     label: 'Chat',
     path: '/',
     icon: 'MessageCircle',
-    component: Home
+component: HomePage
   },
   notFound: {
     id: 'notFound',
     label: 'Not Found',
     path: '*',
     icon: 'AlertCircle',
-    component: NotFound
+component: NotFoundPage
   }
 };
 
