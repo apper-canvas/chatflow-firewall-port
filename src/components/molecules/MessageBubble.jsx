@@ -3,13 +3,14 @@ import { motion } from 'framer-motion';
 import { format } from 'date-fns';
 import ApperIcon from '@/components/ApperIcon';
 
-const MessageBubble = ({ message, index }) => {
+const MessageBubble = React.forwardRef(({ message, index }, ref) => {
   const formatTimestamp = (timestamp) => {
     return format(new Date(timestamp), 'h:mm a');
   };
 
   return (
     <motion.div
+      ref={ref}
       initial={{ opacity: 0, y: 20, scale: 0.8 }}
       animate={{ opacity: 1, y: 0, scale: 1 }}
       transition={{ delay: index * 0.1 }}
@@ -45,6 +46,10 @@ const MessageBubble = ({ message, index }) => {
       )}
     </motion.div>
   );
-};
+});
+
+MessageBubble.displayName = 'MessageBubble';
+
+export default MessageBubble;
 
 export default MessageBubble;
