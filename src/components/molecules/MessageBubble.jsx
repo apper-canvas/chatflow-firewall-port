@@ -49,7 +49,4 @@ const MessageBubble = React.forwardRef(({ message, index }, ref) => {
 });
 
 MessageBubble.displayName = 'MessageBubble';
-
-export default MessageBubble;
-
 export default MessageBubble;
